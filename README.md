@@ -134,6 +134,6 @@ Bu proje MIT lisansı altında lisanslanmıştır - detaylar için [LICENSE.md](
 
 ## 🙏 Teşekkürler
 
-- Bootstrap ekibine harika UI bileşenleri için
-- React topluluğuna mükemmel dokümantasyon için
-- Node.js topluluğuna güçlü backend ekosistemi için
+- Bootstrap ekibine harika UI bileşenleri için.
+- React topluluğuna mükemmel dokümantasyon için.
+- Node.js topluluğuna güçlü backend ekosistemi için.
